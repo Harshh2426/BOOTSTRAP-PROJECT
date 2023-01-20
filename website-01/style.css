@@ -1,0 +1,11 @@
+.navbar-nav .nav-link.active, .navbar-nav .show .nav-link,.nav-link {
+    color: rgb(244 236 236 / 90%) !important;
+    font-weight: 600;
+}
+.carousel-item{
+    max-height: 400px;
+    
+}
+.carousel-item img{
+    width: 100%;
+}
